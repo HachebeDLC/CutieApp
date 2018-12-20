@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CutieApp</string>
+    <string name="permissionsNotGranted">Permission Denied</string>
+    <string name="permissionsGranted">Permission Granted! Try again</string>
+</resources>
